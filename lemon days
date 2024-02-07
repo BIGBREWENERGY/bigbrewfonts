@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Lemon Days';
+    src: url('fonts/Lemon-Days.eot');
+    src: url('fonts/Lemon-Days.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Lemon-Days.woff2') format('woff2'),
+         url('fonts/Lemon-Days.woff') format('woff'),
+         url('fonts/Lemon-Days.ttf')  format('truetype'),
+         url('fonts/Lemon-Days.svg#Lemon Days') format('svg');
+}
